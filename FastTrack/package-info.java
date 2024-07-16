@@ -1,1 +1,1 @@
-package com.day1;
+package com.day2;
